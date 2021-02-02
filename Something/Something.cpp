@@ -6,4 +6,5 @@ int main() {
 	cout << "This is Anas" << endl;
 	cout << "this is freddy" << endl;
     cout << "This is Merna" << endl;
+    cout << " This is Mariam" <<endl;
 }
