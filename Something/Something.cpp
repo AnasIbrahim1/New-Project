@@ -9,5 +9,5 @@ int main() {
 	cout << " This is Mariam" << endl;
 	cout << "This is youssef" << endl;
 	cout << "this is ahmed endl";
-
+	cout << "This is Adam" << endl;
 }
