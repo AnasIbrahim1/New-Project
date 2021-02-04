@@ -12,4 +12,5 @@ int main() {
 	cout << "This is Adam" << endl;
         cout<< "This is Ghada" << endl;
 		cout << "freddy was here again " << endl;
+		cout << "Freddy Amgadx was here again " < , endl;
 }
